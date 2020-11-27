@@ -1,0 +1,1 @@
+# Lotto_exe_file-using-pyqt5-
